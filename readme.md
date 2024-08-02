@@ -6,3 +6,5 @@ A fake terminal that shows some text realeted to hacking.
 
 - Can be used for prank people
 
+
+[Live Preview](https://helloimabid.github.io/terminal/)
