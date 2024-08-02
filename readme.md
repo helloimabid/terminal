@@ -1,6 +1,6 @@
 # Hacking Terminal
 
-A fack terminal that shows some text realeted to hacking. 
+A fake terminal that shows some text realeted to hacking. 
 
 ## Usage
 
