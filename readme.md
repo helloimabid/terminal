@@ -4,5 +4,5 @@ A fake terminal that shows some text realeted to hacking.
 
 ## Usage
 
-- Can be use for prank people
+- Can be used for prank people
 
